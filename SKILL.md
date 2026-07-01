@@ -3,7 +3,7 @@ name: card-stack
 description: "Your main product screenshot sits on top of a stack of secondary UI cards. The front card swoops up and over to the back at a configurable interval, autonomously cycling through every screen. Soft drop shadows, a cyan edge glow on the top card, cursor parallax tilt."
 metadata:
   author: "@ybouane"
-  version: "0.1.0"
+  version: "0.1.1"
 ---
 
 ## How To Use This Skill
